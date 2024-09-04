@@ -1,1 +1,3 @@
-# first-class-repo
+# Cool Class
+
+## I'm a blueberry
